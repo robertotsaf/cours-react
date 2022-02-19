@@ -1,0 +1,6 @@
+pous installer react, se rassure d'avoir node js et npm installe
+
+
+  installer react-js                  # npm install -g create-react-app
+   creer un projet react              #npx create-react-app <NOM_DE_VOTRE_PROJET>
+   lancer l'apllication               #npm start 
